@@ -1,0 +1,31 @@
+ *p{ 
+    margin: 0;
+    padding: 0; 
+}
+#p1{
+    color: red;
+}
+
+.p2{
+    background-color: aqua;/*окрашивание заднего фона*/
+    width: 350px;/*ширина блока абзаца*/
+    color: green;
+}
+
+
+.p3{
+    border: 1px solid black;/* рамка толщиной 1px черная и сплошной линией*/
+    font-size: 40px;
+    padding: 20px  80px;
+    margin: 40px 80px;
+
+}
+
+.blue{
+ color: red;
+}
+
+.blue:hover{
+    background-color: green;
+    cursor: pointer;
+}

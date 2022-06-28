@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label>
+        <p>Enter email:</p>
+        <input class="inputText" type="email" placeholder="Email/login"><!--input поле для ввода даных.placeholder="Email или password" подсказка ввести эмеил или пароль.type="email - происходит валидация"-->
+        </label>    
+        
+        <label>
+            <p>Enter password:</p>
+            <input class="inputText" type="password" placeholder="password"><!--input поле для ввода даных.placeholder="Email или password" подсказка ввести эмеил или пароль.type="email - происходит валидация"-->
+        </label> 
+        <!-- <label for="password">Enter password:</label> //for="password" это id="password
+        <input type="password" placeholder="password" id="password">
+        <button type="submit">Enter</button> -->
+        <br><br>
+        <textarea name="" id="comments" ></textarea>
+        <br><br>
+        <p>What do i want to learn?</p>
+        <label><!--Связывает описание и квадратик чекбокс-->
+        <input type="checkbox" name="languages" value="javascript">javascript
+        </label>
+        
+        <label>
+        <input type="checkbox" name="languages" value="Pyton">Pyton
+        </label> 
+        
+        <label>   
+        <input type="checkbox" name="languages" value="java">java <!--name="languages" атрибут который связывает чек боксы по смыслу-->
+       </label>   
+        
+       <p>Which OC do you want to use?</p>
+        <label><!--Связывает описание и квадратик чекбокс-->
+        <input type="radio" name="operating_systems" value="windows">windows <!--value="windows это нужно для передачи значения на сервер,то есть чтоб было понятно что вы выбрали галочкой-->
+        </label>
+        
+        <label>
+        <input type="radio" name="operating_systems">mac
+        </label> 
+        
+        <label>   
+        <input type="radio" name="operating_systems">ubuntu 
+       </label>   
+        
+      
+    </form>
+</body>
+</html>
+<!--При работе с формами в html мы собираем информацию,а javascript при работе с формами мы обрабатываем эту информацию.
+name b value нужно при работе на сервере,type визуально отобразить,класс для стилизации,
+ атрибут name определяет к какой группе относится,value -->
+
+ <!--
+      languages: javascript,
+      cities: berlin
+
+      type - определяет назначение инпута;
+      name - определяет к какой группе относится инпут (для работы c формой в JS);
+      value - определяет передаваемое значение (для работы c формой в JS);
+      placeholder  подсказка
+      type="radio" кружочек ,который можно выбрать только один
+      label групирует один input  и его значение после >,а name групирует несколько интпутов в одну группу для применение radio(выбор одного варианта)
+    -->
+
+    <!--Псевдо класс :focus -->

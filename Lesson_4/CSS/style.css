@@ -1,0 +1,18 @@
+table,td,th{
+    border: 1px solid greenyellow;
+    border-collapse: collapse;/* убрать одну границу(линию у рамки)*/
+}
+
+td,th{
+    width: 100px;/*ширина ячеек таблицы*/
+}
+
+td{
+    height: 30px ;
+}
+
+table{
+    table-layout: fixed;
+    width: 350px;/*как сохранять размер таблички*/
+}
+

@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Материалы на сайт | QIWI Кошелек</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="icon" type="image/png" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-76x76.png" sizes="76x76">
+<link rel="apple-touch-icon" href="https://static.qiwi.com/img/qiwi_com/favicon/favicon-152x152.png" sizes="152x152">
+<link rel="stylesheet" type="text/css" href="https://static.qiwi.com/njsf/qiwi-corp-app/1.2.0/index.css" media="all">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4FJZS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W4FJZS');</script>
+<div class="qw-container">
+<div class="qw-header">
+<header class="qw-corp-header">
+<div class="qw-corp-wrapper">
+<div class="qw-corp-header-logo">
+<a href="/business.action"></a>
+</div>
+<div class="qw-corp-header-block">
+<div class="qw-corp-header-info">
+<a href="http://qiwi.com/support.action" class="qw-corp-header-info-link help"> Поддержка </a> <a href="http://qiwi.com/replenish/map.action" class="qw-corp-header-info-link"> Карта терминалов QIWI </a> <a class="qw-corp-header-info-link lang" href="/en/business/connect/logotype.action"> English </a> <a style=display:none class="qw-corp-header-info-link lang" href="/business/connect/logotype.action"> Русский </a> </div>
+<nav class="qw-corp-header-menu">
+<div class="qw-corp-header-menu-item active">
+<a href="/business.action" class="qw-corp-header-menu-item-link ">
+Бизнесу
+</a>
+</div>
+<div class="qw-corp-header-menu-item">
+<a href="/company.action" class="qw-corp-header-menu-item-link ">
+О компании
+</a>
+</div>
+<div class="qw-corp-header-menu-item">
+<a href="/investors.action" class="qw-corp-header-menu-item-link ">
+Инвесторам
+</a>
+</div>
+<div class="qw-corp-header-menu-item">
+<a href="/qiwibank.action" class="qw-corp-header-menu-item-link ">
+КИВИ Банк
+</a>
+</div>
+<div class="qw-corp-header-menu-item">
+<a href="/oferta.action" class="qw-corp-header-menu-item-link ">
+Оферты
+</a>
+</div>
+<div class="qw-corp-header-menu-item">
+<a href="/hr.action" class="qw-corp-header-menu-item-link ">
+Работа в QIWI
+</a>
+</div>
+</nav> </div>
+</div>
+</header>
+</div>
+<div class="qw-mainer">
+<div class="qw-content">
+<div class="qw-content-col3"></div>
+<div class="qw-content-col9">
+<h1 class="qw-great-title">Материалы на сайт</h1>
+</div>
+</div>
+<div class="qw-content">
+<div class="qw-content-col3">
+<nav class="qw-side-nav">
+<div class="qw-side-nav-item ">
+<a href="/business/agents.action" class="qw-side-nav-link ">
+Агентам
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/products.action" class="qw-side-nav-link ">
+Продукция
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/products/selfservice.action" class="qw-side-nav-link ">
+Платежные терминалы
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/products/software.action" class="qw-side-nav-link ">
+Программное обеспечение для АСО
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/products/posterminals.action" class="qw-side-nav-link ">
+POS-терминалы
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/products/certificates.action" class="qw-side-nav-link ">
+Сертификаты
+</a>
+</div>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/documents.action" class="qw-side-nav-link ">
+Документы
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/about.action" class="qw-side-nav-link ">
+О системе
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/howtobecome.action" class="qw-side-nav-link ">
+Как стать агентом
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/howtobecome/howtobecome-form.action" class="qw-side-nav-link ">
+Заявка на подключение агента
+</a>
+</div>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents.action" class="qw-side-nav-link ">
+Сопровождение агентов
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents/support_agents_question.action" class="qw-side-nav-link ">
+Вопросы по текущему договору
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents/support_agents_dissolution.action" class="qw-side-nav-link ">
+Расторжение договора
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents/support_agents_act.action" class="qw-side-nav-link ">
+Акты, счета-фактуры
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents/support_agents_docs.action" class="qw-side-nav-link ">
+Документы
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/support_agents/support_agents_other.action" class="qw-side-nav-link ">
+Прочие вопросы
+</a>
+</div>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/freepay.action" class="qw-side-nav-link ">
+Сервис «Free Pay»
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/free-pay-2.0.action" class="qw-side-nav-link ">
+Сервис «Free Pay 2.0»
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/fiskalizaciya.action" class="qw-side-nav-link ">
+Фискализация
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/howtofound.action" class="qw-side-nav-link ">
+Как пополнить счет
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/files.action" class="qw-side-nav-link ">
+Скачать ПО и документацию
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/decoration.action" class="qw-side-nav-link ">
+Оформление терминалов и мест установки
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/terminals.action" class="qw-side-nav-link ">
+Размещение терминалов в рознице
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/help.action" class="qw-side-nav-link ">
+Правовые и налоговые аспекты
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft.action" class="qw-side-nav-link ">
+Рапида — Программное обеспечение
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft/rma.action" class="qw-side-nav-link ">
+Рабочее место агента
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft/crt.action" class="qw-side-nav-link ">
+Работа с сертификатами
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft/src.action" class="qw-side-nav-link ">
+Разработчику
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft/tsp.action" class="qw-side-nav-link ">
+Получателю платежей
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/agents/rapida-soft/testservice.action" class="qw-side-nav-link ">
+Тестовый сервис
+</a>
+</div>
+</div>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/providers.action" class="qw-side-nav-link ">
+Провайдерам
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/howtobecome.action" class="qw-side-nav-link ">
+Как стать партнером
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/howtobecome/howtobecome_application.action" class="qw-side-nav-link ">
+Заявка на подключение провайдера
+</a>
+</div>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/support_providers.action" class="qw-side-nav-link ">
+Сопровождение провайдеров
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/support_providers/support_providers_question.action" class="qw-side-nav-link ">
+Вопросы по текущему договору
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/support_providers/support_providers_dissolution.action" class="qw-side-nav-link ">
+Расторжение договора
+</a>
+</div>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/aboutsystem.action" class="qw-side-nav-link ">
+О системе
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/providers/contact-ngt.action" class="qw-side-nav-link ">
+</a>
+</div>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/banks.action" class="qw-side-nav-link ">
+Банкам
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/banks/scoring.action" class="qw-side-nav-link ">
+QIWI Скоринг
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/banks/profile.action" class="qw-side-nav-link ">
+Платежные сервисы
+</a>
+</div>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/landlords.action" class="qw-side-nav-link ">
+Арендодателям
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/landlords/retail.action" class="qw-side-nav-link ">
+Розничные сети
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/landlords/entry.action" class="qw-side-nav-link ">
+Заявка на установку терминала
+</a>
+</div>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/onlineshops.action" class="qw-side-nav-link ">
+Интернет-магазинам
+</a>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/foreign-partners.action" class="qw-side-nav-link ">
+Зарубежным партнёрам
+</a>
+</div>
+<div class="qw-side-nav-item active-block">
+<a href="/business/connect.action" class="qw-side-nav-link active">
+Материалы на сайт
+</a>
+<div class="qw-side-nav-sub-item active-block">
+<a href="/business/connect/logotype.action" class="qw-side-nav-link active">
+Логотип
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/connect/method.action" class="qw-side-nav-link ">
+Описание способа оплаты
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/connect/payment.action" class="qw-side-nav-link ">
+Инструкции
+</a>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/connect/payment/payment-terminal.action" class="qw-side-nav-link ">
+Оплата через терминал
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/connect/payment/payment-web.action" class="qw-side-nav-link ">
+Оплата на сайте qiwi.com
+</a>
+</div>
+<div class="qw-side-nav-sub-item ">
+<a href="/business/connect/payment/payment-mobile.action" class="qw-side-nav-link ">
+Оплата в приложении
+</a>
+</div>
+</div>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/insider.action" class="qw-side-nav-link ">
+Раскрытие информации
+</a>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/advertisers.action" class="qw-side-nav-link ">
+Рекламодателям
+</a>
+</div>
+<div class="qw-side-nav-item ">
+<a href="/business/contacts.action" class="qw-side-nav-link ">
+Контакты
+</a>
+</div>
+</nav> </div>
+<div class="qw-content-col9">
+<div class="qw-block">
+<div class="qw-list">
+<p style="font-size: 23px; margin-left: 20px; font-weight: 700">Правила размещения логотипов QIWI</p>
+<br>
+<div class="marker">
+<strong>1.</strong>
+</div>
+<div class="text">
+<p style="font-size: 23px; margin-bottom: 15px;"><strong>Логотип должен соответствовать </br> категории и размеру места размещения</strong></p>
+<table cellpadding="5" cellspacing="5" width="80%">
+<tr>
+<td style="line-height:1.5">Размер </br>места размещения</td>
+<td style="line-height:1.5">Категория </br>Электронные деньги</td>
+<td style="line-height:1.5">Категория </br>Наличные или Терминалы</td>
+</tr>
+<tr>
+<td style="line-height:1.5">Больше, чем </br>70х32 px</td>
+<td><a href="/dam/jcr:56b2b3d3-3464-483d-b7a1-7f2be2e6a12a/logo-qiwi-koshelek.zip" download><img src="/dam/jcr:95ab4e1a-0291-4a91-93a3-4ed0dbf15a8d/qiwi-2x-koshelek.png" alt="" style="width: 120px; margin-top: 30px;"></a></td>
+<td><a href="/dam/jcr:9751880d-6854-4cdc-b0cf-20abec0cb955/logo-qiwi-simple.zip" download><img src="/dam/jcr:e270a1b7-37d3-40bd-a494-9223b4978947/qiwi-2x-simple.png" alt="" style="width: 120px;margin-top: 30px;"></a></td>
+</tr>
+<tr>
+<td style="line-height:1.5">Меньше, чем </br>70х32 px</td>
+<td><a href="/dam/jcr:7e8780d4-a5bc-4534-a1e1-b5e832c2357e/logo-qiwi-small.zip" download><img src="/dam/jcr:9c9065a3-885c-4d7f-ba7d-6900c39947b4/qiwi-name.png" alt="" style="width: 80px;margin-top: 30px;"></a></td>
+<td><a href="/dam/jcr:7e8780d4-a5bc-4534-a1e1-b5e832c2357e/logo-qiwi-small.zip" download><img src="/dam/jcr:9c9065a3-885c-4d7f-ba7d-6900c39947b4/qiwi-name.png" alt="" style="width: 80px;margin-top: 30px;"></a></td>
+</tr>
+</table>
+</br>
+<a href="/dam/jcr:ef08d1a4-fec9-4156-80be-97ae5446227d/logo-qiwi-sign.zip" download><img src="/dam/jcr:48e11032-1fc9-4c4d-83dd-446bafefde56/qiwi_mini.png" alt="" style="width: 25px; margin-bottom: 35px; margin-top: 5px; margin-left:3px"></a>
+<div style="margin-left: 60px; margin-top: -100px">
+<p style="width: 395px; text-align: left; font-size: 13px; margin-bottom: 10px;">В случаях, когда нет возможности разместить полный логотип, допускается использование отдельного знака. При этом рядом со знаком должно быть название продукта.</p>
+</div>
+</div>
+</br>
+</br>
+</br>
+<div class="marker">
+<strong>2.</strong>
+</div>
+<div class="text">
+<p style="font-size: 23px;"><strong>Размещайте только актуальные логотипы QIWI</strong></p>
+<p>Всегда размещайте последнюю версию логотипа. Так пользователь будет видеть, что сайт обновляется и заслуживает доверия.</p>
+<img src="/dam/jcr:cb502d51-3b1f-40e1-8900-38c9225d4830/wrong-old-name.png" alt="" style="width: 70%; margin-bottom: 20px; margin-top:10px">
+</div>
+</br>
+</br>
+</br>
+<div class="marker">
+<strong>3.</strong>
+</div>
+<div class="text">
+<p style="font-size: 23px;"><strong>Не искажайте логотипы QIWI</strong></p>
+<p>Сохраняйте оригинальные цвета и пропорции, расположение элементов логотипа.</p>
+<p style="line-height: 0.5;">Не добавляйте эффекты, обводки.</p>
+<img src="/dam/jcr:0642d488-0c7f-4d5f-a696-e08375d34c7e/distortion-logo.png" alt="" style="width: 70%; margin-bottom: 20px; margin-top: 20px;">
+</div>
+</br>
+</br>
+</br>
+<div class="intro">
+<p style="font-size: 23px; font-weight: 700">Файлы</p>
+<div class="files">
+<div class="files-item">
+<a href="/dam/jcr:9751880d-6854-4cdc-b0cf-20abec0cb955/logo-qiwi-simple.zip" download><div class="files-item-qiwisimple-logo"></div></a>
+<div class="format_pic">
+<img src="/dam/jcr:2955e9bd-fd9d-4a4c-a8df-e4d01d919c5b/eps.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:9a50cfa4-46a8-4223-b5a3-c0733981b67f/qiwi_logo_rgb.eps" target="_download">Скачать EPS</a></p>
+</div>
+<div class="format_pic">
+<img src="/dam/jcr:e198fb2c-6212-4a05-bf5d-412505de650e/png.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:72351bbe-eb6a-4b20-a5a5-a4ceb2187b55/qiwi_logo_rgb.png" target="_download" >Скачать PNG</a></p>
+</div>
+</div>
+<div class="files-item">
+<a href="/dam/jcr:56b2b3d3-3464-483d-b7a1-7f2be2e6a12a/logo-qiwi-koshelek.zip" download><div class="files-item-wallet-logo"></div></a>
+<div class="format_pic">
+<img src="/dam/jcr:2955e9bd-fd9d-4a4c-a8df-e4d01d919c5b/eps.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:78d30702-3bec-4bc2-a56e-05526b8a2403/qiwi_koshelek_rgb.eps" target="_download">Скачать EPS</a></p>
+</div>
+<div class="format_pic">
+<img src="/dam/jcr:e198fb2c-6212-4a05-bf5d-412505de650e/png.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:69d8c4f7-640d-411b-a6fa-10c877a29505/qiwi_koshelek_rgb.png" target="_download">Скачать PNG</a></p>
+</div>
+</div>
+<div class="files-item">
+<a href="/dam/jcr:7e8780d4-a5bc-4534-a1e1-b5e832c2357e/logo-qiwi-small.zip" download><div class="files-item-qiwi-logo"></div></a>
+<div class="format_pic">
+<img src="/dam/jcr:2955e9bd-fd9d-4a4c-a8df-e4d01d919c5b/eps.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:86fc765b-fafa-42c6-b9c1-1de9401906ce/qiwi_logo_rgb_small.eps" target="_download">Скачать EPS</a></p>
+</div>
+<div class="format_pic">
+<img src="/dam/jcr:e198fb2c-6212-4a05-bf5d-412505de650e/png.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:75d303a3-c579-4fb4-be4c-258da7f2a05f/qiwi_logo_rgb_small.png" target="_download">Скачать PNG</a></p>
+</div>
+</div>
+<div class="files-item" style="margin-left: 2px">
+<a href="/dam/jcr:ef08d1a4-fec9-4156-80be-97ae5446227d/logo-qiwi-sign.zip" download><div class="files-item-icon-logo"></div></a>
+<div class="format_pic">
+<img src="/dam/jcr:2955e9bd-fd9d-4a4c-a8df-e4d01d919c5b/eps.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:0512572f-2ffe-4fe0-ba17-59ed407c7216/qiwi_sign_rgb.eps" target="_download">Скачать EPS</a></p>
+</div>
+<div class="format_pic">
+<img src="/dam/jcr:e198fb2c-6212-4a05-bf5d-412505de650e/png.png" style="width: 15%;">
+</div>
+<div class="file-download">
+<p class="file-download-name"><a href="/dam/jcr:fbce4856-723e-44a2-a54f-e7b164785f01/qiwi_sign_rgb.png" target="_download">Скачать PNG</a></p>
+</div>
+</div>
+</div>
+</div>
+<style>
+.files {
+width:100%;
+}
+.files-item {
+margin-left: 14px;
+margin-right: 10px;
+display: inline-block;
+vertical-align: top;
+width: 20%;
+height: 250px;
+}
+.files-item-qiwisimple-logo {
+display: block;
+width: 130px;
+height: 120px;
+margin-left: 14px;
+background-repeat: no-repeat;
+background-position:center center;
+background-size: contain;
+background-image:url(/dam/jcr:e270a1b7-37d3-40bd-a494-9223b4978947/qiwi-2x-simple.png) ;
+}
+.files-item-qiwisimple-logo-link-pic-png {
+margin: 24px 0 0 8px;
+display: block;
+width: 35px;
+height: 15px;
+font-size: 10px;
+background-repeat:no-repeat;
+background-image: url(/dam/jcr:df2ab586-227d-4dcf-aeb4-d554ea85e590/file_png_icon.png);
+}
+.files-item-qiwisimple-logo-link-pic-eps {
+margin: 10px 0 0 8px;
+display: block;
+width: 35px;
+height: 15px;
+font-size: 10px;
+background-repeat: no-repeat;
+background-image: url(/dam/jcr:c6ca3af5-842a-4f26-8cd4-7938cad387da/file_eps_icon.png);
+}
+.files-item-wallet-logo {
+margin: 0 0 0 0;
+display: block;
+width: 130px;
+height: 120px;
+margin-left: 14px;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: contain;
+background-image:url(/dam/jcr:95ab4e1a-0291-4a91-93a3-4ed0dbf15a8d/qiwi-2x-koshelek.png);
+}
+.files-item-qiwi-logo {
+margin-left: -3px;
+display: block;
+width: 130px;
+height: 120px;
+background-repeat: no-repeat;
+background-size: 73% auto;
+background-position: center center;
+background-image: url(/dam/jcr:9c9065a3-885c-4d7f-ba7d-6900c39947b4/qiwi-name.png);
+}
+.files-item-icon-logo {
+margin-left: -36px;
+display: block;
+width: 130px;
+height: 120px;
+background-repeat: no-repeat;
+background-size: 20% auto;
+background-position: center center;
+background-image: url(/dam/jcr:48e11032-1fc9-4c4d-83dd-446bafefde56/qiwi_mini.png);
+}
+.format_pic {
+margin-bottom: 10px;
+margin-left: 14px;
+margin-top: 5px;
+}
+.file-download {
+margin-left: 60px;
+margin-top: -75px;
+}
+.file-download-name {
+margin-left: -20px;
+margin-top: 40px;
+line-height: 90px
+}
+.qw-list a {
+font-size: 13px;
+}
+td, th {
+border-bottom: 1px dotted #979797;
+white-space: pre-wrap;
+border-collapse: collapse;
+padding-bottom: 15px;
+align:center;
+}
+.intro {
+line-height: 32px;
+margin-left: 19px;
+margin-bottom: 15px
+}
+.marker {
+width: 32px;
+height: 32px;
+line-height: 32px;
+text-align: center;
+font-size: 23px;
+font-weight: 700;
+margin-left: 14px;
+margin-bottom: 14px
+}
+.text {
+margin-left: 50px;
+margin-top: -44px;
+line-height: 50px
+}
+</style>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<footer class="footer qiwi-corp">
+<div class="qw-corp-wrapper">
+<nav class="qw-corp-footer-menu">
+<div class="qw-corp-footer-menu-item">
+<a href="/business.action" class="qw-corp-footer-menu-item-link">
+Бизнесу
+</a>
+</div>
+<div class="qw-corp-footer-menu-item">
+<a href="/company.action" class="qw-corp-footer-menu-item-link">
+О компании
+</a>
+</div>
+<div class="qw-corp-footer-menu-item">
+<a href="/investors.action" class="qw-corp-footer-menu-item-link">
+Инвесторам
+</a>
+</div>
+<div class="qw-corp-footer-menu-item">
+<a href="/qiwibank.action" class="qw-corp-footer-menu-item-link">
+КИВИ Банк
+</a>
+</div>
+<div class="qw-corp-footer-menu-item">
+<a href="/oferta.action" class="qw-corp-footer-menu-item-link">
+Оферты
+</a>
+</div>
+<div class="qw-corp-footer-menu-item">
+<a href="/hr.action" class="qw-corp-footer-menu-item-link">
+Работа в QIWI
+</a>
+</div>
+</nav><span class="qw-corp-footer-copyright">© QIWI, 2022</span>
+</div>
+</footer>
+<script src="https://qiwi.com/action/settings.js?v=3.10.0" type="text/javascript"></script>
+<script src="/.resources/corp-templates/webresources/js/jquery.min.js" type="text/javascript"></script>
+<script src="/.resources/corp-templates/webresources/js/qiwi.min.js" type="text/javascript"></script>
+<script src="https://static.qiwi.com/njsf/qiwi-corp-app/1.2.0/index.js" type="text/javascript"></script>
+</body>
+</html>

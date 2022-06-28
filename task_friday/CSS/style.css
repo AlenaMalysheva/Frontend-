@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+color:red;
+}
+
+p{
+    padding: 15px;
+    margin: 15px 0;
+    border: 2px solid blue;
+}
+
+.biography{
+    background-color: aquamarine;
+    width: 350px;
+}
+
+.goal{
+    background-color: greenyellow;
+    width:  350px;
+}
+
+.sport{
+    background-color: yellow;
+    width: 350px;
+}
+ 
+#main{
+    background-color: plum;
+    width: 350px;
+}

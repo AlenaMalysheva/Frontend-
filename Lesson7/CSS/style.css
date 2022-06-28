@@ -1,0 +1,11 @@
+   textarea{
+    resize: none;/**чтобы область на странице пользователь не мог увеличить уменьшить*/
+    /* width: 600px;
+    height: 400px; */
+}
+.inputText:focus {
+    outline: none;/** убрать цвет рамки который по умолчанию*/
+    border-color: turquoise;
+    color: blueviolet;
+    background-color: bisque;
+}
