@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid gray;
+    width: 350px;
+    padding: 16px;
+    margin: 20px;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;/** отцентровать по горизонтали и вертикали*/
+    align-items: center;
+
+    position: relative;
+}
+
+.form_cross {
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.form_title {
+    width: 100%;/**шириной выравниваем по левому краю*/
+    margin: 15px 0;
+}
+
+.form_input {
+    width: 100%;
+    margin: 2px 0;
+    padding: 10px 12px;
+    border-radius: 12px;
+    border: 1px solid #CFD8DC;
+}
+
+.form_input:focus {
+    outline: none;
+    border-color: #FFE44D;
+}
+
+.form_btn {
+    width: 100%;
+    margin: 2px;
+    border-radius: 15px;
+    padding: 10px 12px;
+    font-weight: bold;
+    font-size: 14px ;
+    border: 1px solid #CFD8DC;
+}
+
+.submit_btn {
+    background-color: #FFE44D;
+    border: 1px solid transparent;/**transparent прозрачная рамка*/
+}
+
+.redirect_btn {
+    background-color: white;
+    border: 1px solid #FFE44D;
+}
+
+.form_info-text {
+    margin: 15px 0;
+    color: gray;
+    font-size: 13px;
+    padding-left: 3px;
+}
+
+/* .restore_password {
+    padding-left: 205px;
+}
+
+
+.password_expire {
+    padding-right: 92px;
+} */
