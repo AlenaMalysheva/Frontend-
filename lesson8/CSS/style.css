@@ -25,6 +25,7 @@
     position: absolute;
     top: 15px;
     right: 15px;
+    cursor: pointer;
 }
 
 .form_title {
@@ -63,6 +64,9 @@
 .redirect_btn {
     background-color: white;
     border: 1px solid #FFE44D;
+    color: black;
+    width: 100%;
+    text-align: center;
 }
 
 .form_info-text {
@@ -73,10 +77,22 @@
 }
 
 .restore_password {
-    padding-left: 205px;
+   
+    font-size: 13px;
+    padding-left: 10px;
+    margin: 15px 0;
+    width: 100%; /** выровнять по праваму краю*/
+    text-align: end;
+    color: gray;
 }
 
+a {
+    text-decoration: none;
+}
 
 .password_expire {
-    padding-right: 92px;
+    font-size: 13px;
+    margin: 15px 0;
+    width: 100%; /** выровнять по праваму краю*/
+    color: gray;
 }
